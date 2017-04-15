@@ -12,10 +12,10 @@ count++;
 }
 if(count==0&&num!=1)
 {
-printf("palindrome");
+printf("prime");
 }
 else
 {
-printf("not palindrome");
+printf("not prime");
 }
 }
