@@ -6,8 +6,7 @@ int n,i,m;
 n=in.nextInt();
 for(i=0;i<=10;i++)
 {
-m=n*i;
+System.out.println(n+"*"+i"="+n*i);
 }
-System.out.println(m);
 }
 }
